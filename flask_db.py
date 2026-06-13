@@ -1,1 +1,1 @@
-Flask SQLite connection
+CD-50: Flask + SQLite
