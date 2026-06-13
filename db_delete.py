@@ -1,1 +1,1 @@
-Delete contact from DB
+CD-41: delete contact
