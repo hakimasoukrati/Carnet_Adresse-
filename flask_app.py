@@ -1,1 +1,1 @@
-Flask project initialized
+CD-44: init Flask
