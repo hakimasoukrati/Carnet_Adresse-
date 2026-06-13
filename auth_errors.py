@@ -1,1 +1,1 @@
-Login error handling
+CD-36: handle login errors
