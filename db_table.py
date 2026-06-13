@@ -1,1 +1,1 @@
-Create contacts table
+CD-39: create contacts table
