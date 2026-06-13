@@ -59,4 +59,4 @@ venv/
 db.sqlite3
 
 # Logs
-*.log
+*.logfull_workflow.bat 
