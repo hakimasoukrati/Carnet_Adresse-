@@ -1,1 +1,1 @@
-Home page created
+CD-45: home page
