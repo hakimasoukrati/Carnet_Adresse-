@@ -1,1 +1,1 @@
-Insert contact into DB
+CD-40: insert contact
