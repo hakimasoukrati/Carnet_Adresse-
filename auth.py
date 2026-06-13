@@ -1,1 +1,1 @@
-Login interface created
+CD-32: create login interface
