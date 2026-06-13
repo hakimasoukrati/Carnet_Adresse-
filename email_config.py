@@ -1,1 +1,1 @@
-Email configuration
+CD-51: email configuration
