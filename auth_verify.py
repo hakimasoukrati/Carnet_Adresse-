@@ -1,1 +1,1 @@
-User authentication check
+CD-34: verify user credentials
