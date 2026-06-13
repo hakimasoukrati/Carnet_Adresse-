@@ -1,1 +1,1 @@
-Send email to contact
+CD-52: send email
