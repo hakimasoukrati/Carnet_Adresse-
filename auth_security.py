@@ -1,1 +1,1 @@
-Password hashing implemented
+CD-33: password hashing
