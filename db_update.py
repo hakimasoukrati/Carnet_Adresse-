@@ -1,1 +1,1 @@
-Update contact in DB
+CD-42: update contact
